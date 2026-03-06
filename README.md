@@ -2,7 +2,8 @@
 
 A SolidWorks CAD design of a quadcopter drone featuring a central body with ventilation grilles, four geared motor arms, dual-blade propellers, folding landing legs with LED indicators, and a bottom-mounted camera unit.
 
-![Drone Render](renders/drone_render.png)
+![Drone Render] <img width="920" height="582" alt="image" src="https://github.com/user-attachments/assets/b4576da1-766d-4436-8cf9-f1bc93340290" />
+
 
 ---
 
