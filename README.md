@@ -74,7 +74,7 @@ A SolidWorks CAD design of a quadcopter drone featuring a central body with vent
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -90,7 +90,7 @@ A SolidWorks CAD design of a quadcopter drone featuring a central body with vent
 
 ---
 
-## 📐 File Format
+## File Format
 
 All files are native SolidWorks format:
 - `.SLDPRT` — SolidWorks Part file
@@ -100,15 +100,6 @@ All files are native SolidWorks format:
 
 ---
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-change`
-3. Commit your changes: `git commit -m "describe your change"`
-4. Push and open a Pull Request
 
----
 
-## 📄 License
-
-Specify your license here (e.g., MIT, proprietary, etc.)
