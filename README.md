@@ -2,12 +2,12 @@
 
 A SolidWorks CAD design of a quadcopter drone featuring a central body with ventilation grilles, four geared motor arms, dual-blade propellers, folding landing legs with LED indicators, and a bottom-mounted camera unit.
 
-![Drone Render] <img width="920" height="582" alt="image" src="https://github.com/user-attachments/assets/b4576da1-766d-4436-8cf9-f1bc93340290" />
+<img width="920" height="582" alt="image" src="https://github.com/user-attachments/assets/b4576da1-766d-4436-8cf9-f1bc93340290" />
 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── assemblies/          # Top-level and sub-assembly files (.SLDASM)
@@ -31,16 +31,22 @@ A SolidWorks CAD design of a quadcopter drone featuring a central body with vent
 
 ---
 
-## 🔩 Parts Overview
+## Parts Overview
 
 | # | Part Name | File | Description |
 |---|-----------|------|-------------|
-| 1 | Impeller Blade | `part_1_Impeller_blade.SLDPRT` | Rotating blade component |
-| 2 | Arm Gear | `part_2_ARM_GEAR.SLDPRT` | Gear attached to arm mechanism |
-| 3 | Gearing | `part_3_GEARING.SLDPRT` | Main gearing/transmission component |
-| 4 | Leg | `part_4_Leg.SLDPRT` | Leg / support structure |
-| 5 | Main Structure | `PART_5_Main_Strc_.SLDPRT` | Primary structural frame |
-| 6 | Camera | `Part_6_CAMERA.SLDPRT` | Camera housing or mount |
+| 1 | Impeller Blade | `part_1_Impeller_blade.SLDPRT` | Rotating blade component |<img width="571" height="306" alt="image" src="https://github.com/user-attachments/assets/17cffa68-8b86-4fe6-be2a-6a6ba8db6e56" />
+
+| 2 | Arm Gear | `part_2_ARM_GEAR.SLDPRT` | Gear attached to arm mechanism |<img width="806" height="536" alt="image" src="https://github.com/user-attachments/assets/aecca60f-50e4-4c59-b1ac-5a87b2b8d6bf" />
+
+| 3 | Gearing | `part_3_GEARING.SLDPRT` | Main gearing/transmission component |<img width="259" height="429" alt="image" src="https://github.com/user-attachments/assets/e35ce5ed-5759-453d-b8b6-6ba92f43c9f7" />
+
+| 4 | Leg | `part_4_Leg.SLDPRT` | Leg / support structure |<img width="467" height="313" alt="image" src="https://github.com/user-attachments/assets/a49ffbe4-cbd2-4aa3-9578-fa5b2bfbfb83" />
+
+| 5 | Main Structure | `PART_5_Main_Strc_.SLDPRT` | Primary structural frame |<img width="884" height="334" alt="image" src="https://github.com/user-attachments/assets/99eaed50-2692-417b-b7f0-ff62f8e14480" />
+
+| 6 | Camera | `Part_6_CAMERA.SLDPRT` | Camera housing or mount |<img width="404" height="246" alt="image" src="https://github.com/user-attachments/assets/d2d96263-f496-47c0-9dd5-e3b3fc68207e" />
+
 
 ---
 
