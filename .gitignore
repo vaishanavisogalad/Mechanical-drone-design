@@ -1,0 +1,47 @@
+# SolidWorks auto-generated / temporary files
+*.SLDASM~
+*.SLDPRT~
+*.SLDDRW~
+*.swp
+*.bak
+
+# SolidWorks backup files
+*_backup*
+*-backup*
+
+# SolidWorks rollback files
+*.SLDASM.lock
+*.SLDPRT.lock
+
+# eDrawings
+*.EDRW
+*.EPRT
+*.EASM
+
+# Simulation output
+*.CWR
+*.CWRES
+*.out
+
+# Rendering output
+*.P2M
+*.p2m
+
+# PhotoView 360
+*.psd
+
+# SolidWorks PDM
+*.xls
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files
+*.tmp
+*~
+
+# Log files
+*.log
