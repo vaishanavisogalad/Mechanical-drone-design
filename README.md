@@ -2,8 +2,11 @@
 
 A SolidWorks CAD design of a quadcopter drone featuring a central body with ventilation grilles, four geared motor arms, dual-blade propellers, folding landing legs with LED indicators, and a bottom-mounted camera unit.
 
-<img width="564" height="287" alt="image" src="https://github.com/user-attachments/assets/a040ab34-5669-4df3-910a-48ac35228cb0" />
-
+# Copy the new image into your repo folder, replacing the old one
+# Then:
+git add.
+git commit -m "Update quadrotor drone CAD render"
+git push origin main
 
 ---
 
